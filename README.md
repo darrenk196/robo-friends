@@ -6,5 +6,5 @@ It is a simple React App that fetches data from an API and displays it on the sc
 
 ## To run this project
 
-npm install
-npm start
+- npm install
+- npm start
